@@ -3,13 +3,14 @@ I am a programmer in development. Self thaught since 4 years back and as of righ
 
 
 ### Tech Stack - (Endlessly expanding) 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Framework-Express-lightgrey?logo=express)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen?logo=mongodb)
-![Python (Learning)](https://img.shields.io/badge/Learning-Python-blue?logo=python)
-![C# (In Progress)](https://img.shields.io/badge/In%20Progress-C%23-239120?logo=c-sharp)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Learning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="In Progress"/>
+</p>
 
 ---
 
@@ -19,7 +20,7 @@ I am a programmer in development. Self thaught since 4 years back and as of righ
 
 ---
 # Contact
-[simon.kaneborn@chasacademy.com](mailto:simon.kaneborn@chasacademy.se) *Temporary*
-[LikedIn](www.linkedin.com/in/simon-k-2b8918327) *In progress*
-[Github](https://github.com/SimonKane)
+- [simon.kaneborn@chasacademy.com](mailto:simon.kaneborn@chasacademy.se) *Temporary*
+- [LikedIn](www.linkedin.com/in/simon-k-2b8918327) *In progress*
+- [Github](https://github.com/SimonKane)
 
