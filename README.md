@@ -28,9 +28,9 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical" height="180" include_forks=true/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical&include_forks=true"/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical" height="180" include_forks=true/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical" height="180" />
 </div>
 
 ---
