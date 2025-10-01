@@ -1,5 +1,5 @@
-## Hi! 
-I am a programmer in development. Self thaught since 4 years back and as of right now in the second year of a FullStack JavaScript program at Chas Acedemy in Stockholm. Currently i am in the process of finding a traniee spot (LIA) to practice my skill IRL. Driven by problem solving as well as building projects from scratch.
+<h1 align="center">HI!</h1>
+<p align="center">I am a programmer in development. Self thaught since 4 years back and as of right now in the second year of a FullStack JavaScript program at Chas Acedemy in Stockholm. Currently i am in the process of finding a traniee spot (LIA) to practice my skill IRL. Driven by problem solving as well as building projects from scratch.</p>
 
  
 <h3 align="center">Tech Stack - (Endlessly expanding)</h3>
