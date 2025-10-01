@@ -27,13 +27,17 @@ I am a programmer in development. Self thaught since 4 years back and as of righ
 </p>
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical)
-
-![Simons GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical" height="180"/>
+</div>
 
 ---
-# Contact
-- [simon.kaneborn@chasacademy.com](mailto:simon.kaneborn@chasacademy.se) *Temporary*
-- [LikedIn](www.linkedin.com/in/simon-k-2b8918327) *In progress*
-- [Github](https://github.com/SimonKane)
+<h2 align="center">Contact</h2>
+<div align="center">
 
+  📧 [simon.kaneborn@chasacademy.com](mailto:simon.kaneborn@chasacademy.com) *Temporary*  
+  💼 [LinkedIn](https://www.linkedin.com/in/simon-k-2b8918327) *In progress*  
+  🖥️ [GitHub](https://github.com/SimonKane)  
+
+</div>
