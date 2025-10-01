@@ -34,12 +34,12 @@
 </div>
 
 ---
-<h2 align="center">Contact</h2>
+<h2 align="center">📬 Contact</h2>
 
 <div align="center" style="margin-top:20px;">
-  <div align="left" style="display:inline-block; text-align:left; line-height:2;">
-    📧 [simon.kaneborn@chasacademy.com](mailto:simon.kaneborn@chasacademy.com) *Temporary* <br/>
-    💼 [LinkedIn](https://www.linkedin.com/in/simon-k-2b8918327) *In progress* <br/>
-    🖥️ [GitHub](https://github.com/SimonKane)
-  </div>
+  <ul style="list-style:none; padding:0; text-align:left; line-height:2;">
+    <li>📧 [simon.kaneborn@chasacademy.com](mailto:simon.kaneborn@chasacademy.com) *Temporary*</li>
+    <li>💼 [LinkedIn](https://www.linkedin.com/in/simon-k-2b8918327) *In progress*</li>
+    <li>🖥️ [GitHub](https://github.com/SimonKane)</li>
+  </ul>
 </div>
