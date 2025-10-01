@@ -20,7 +20,8 @@ I am a programmer in development. Self thaught since 4 years back and as of righ
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin:10px;opacity:0.85;" title="Python — Learning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" style="margin:10px;opacity:0.85;" title="C# — Learning"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Exploring-informational?logo=openai" height="24" style="margin:10px;" title="AI/ML — Exploring"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" style="margin:10px;" title="AI / OpenAI"/>
+
 </p>
 
 ---
