@@ -11,6 +11,9 @@ I am a programmer in development. Self thaught since 4 years back and as of righ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin:10px;" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin:10px;" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="margin:10px;" title="PostgreSQL"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" style="margin:10px;" title="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" style="margin:10px;" title="Vite"/>
+
 </p>
 
 <h4 align="center">Learning / In progress</h4>
