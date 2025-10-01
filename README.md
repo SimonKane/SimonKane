@@ -22,6 +22,7 @@ I am a programmer in development. Self thaught since 4 years back and as of righ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" style="margin:10px;opacity:0.85;" title="C# — Learning"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" style="margin:10px;" title="AI / OpenAI"/>
 
+
 </p>
 
 ---
