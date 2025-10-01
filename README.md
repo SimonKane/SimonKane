@@ -38,11 +38,11 @@
 
 <div align="center">
 
-<div align="left">
+
 
 [Email](mailto:simon.kaneborn@chasacademy.com) *Temporary* <br/><br/>
 [LinkedIn](https://www.linkedin.com/in/simon-k-2b8918327) *In progress* <br/><br/>
 [GitHub](https://github.com/SimonKane)
 
-</div>
+
 </div>
