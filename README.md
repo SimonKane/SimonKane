@@ -24,18 +24,17 @@
 
   
 </p>
+
+
 ---
-
-
-<p align="center">
 <h4 align="center">TrioPick</h4>
-<img src="https://tipalot.vercel.app/navbarikon.png" width="40" style="margin:10px;opacity:0.85; title="TrioPick"/>
+<p align="center">
+  <img src="https://github.com/SimonKane/tipalot/blob/master/public/apple-touch-icon.png?raw=true" width="40" style="margin:10px;opacity:0.85;" title="Python — Learning"/>
+
+  
 </p>
 <p align="center">
  Creator and co-founder of TrioPick, a project in development with launch date soon.
-    <a href="tipalot.vercel.app">
-   <h3 align="center">TrioPick</h3>
-  </a>
 </p>
 
 ---
