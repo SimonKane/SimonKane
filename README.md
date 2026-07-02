@@ -27,31 +27,39 @@
 
 
 ---
-<h4 align="center">TrioPick</h4>
-<p align="center">
-  <img src="https://github.com/SimonKane/tipalot/blob/master/public/apple-touch-icon.png?raw=true" width="40" style="margin:10px;opacity:0.85;" title="Python — Learning"/>
+<h2 align="center">🚀 Featured Projects</h2>
 
-  
-</p>
-<p align="center">
- Creator and co-founder of TrioPick, a project in development with launch date soon.
-</p>
-
----
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical&include_forks=true&hide_border=true"
-    height="180"
-    alt="Top languages"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub stats"
-  />
-</div>
-
----
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://triopick.se">
+        <img src="https://github.com/SimonKane/tipalot/blob/master/public/apple-touch-icon.png?raw=true" width="80" alt="TrioPick" />
+      </a>
+      <br />
+      <strong>TrioPick</strong>
+      <br />
+      <sub>Founder & Creator</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/SimonKane/ai-incident-manager">
+        <img src="https://github.com/SimonKane/ai-incident-manager/blob/main/frontend/public/ai-fix-logo.png?raw=true" width="80" alt="LogFix AI" />
+      </a>
+      <br />
+      <strong>LogFix AI</strong>
+      <br />
+      <sub>AI Platform</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/SimonKane/Nextract">
+        <img src="https://raw.githubusercontent.com/SimonKane/Nextract/714fa476da215f86d7ea4f61cc63230b7af3b0bf/frontend-dashboard-main/src/public/Nextract-logo.svg" width="80" alt="Nextract" />
+      </a>
+      <br />
+      <strong>Nextract</strong>
+      <br />
+      <sub>CHAS Finalist</sub>
+    </td>
+  </tr>
+</table>
 <h2 align="center">Contact</h2>
 
 <div align="center">
