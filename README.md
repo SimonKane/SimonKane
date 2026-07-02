@@ -43,7 +43,7 @@
         <img src="https://github.com/SimonKane/ai-incident-manager/blob/main/frontend/public/ai-fix-logo.png?raw=true" width="80" alt="LogFix AI" />
       </a>
       <br />
-      <sub>AI Platform</sub>
+      <sub>Logfix AI</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SimonKane/Nextract">
