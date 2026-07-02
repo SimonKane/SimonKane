@@ -36,8 +36,6 @@
         <img src="https://github.com/SimonKane/tipalot/blob/master/public/apple-touch-icon.png?raw=true" width="80" alt="TrioPick" />
       </a>
       <br />
-      <strong>TrioPick</strong>
-      <br />
       <sub>Founder & Creator</sub>
     </td>
     <td align="center" width="33%">
@@ -45,16 +43,12 @@
         <img src="https://github.com/SimonKane/ai-incident-manager/blob/main/frontend/public/ai-fix-logo.png?raw=true" width="80" alt="LogFix AI" />
       </a>
       <br />
-      <strong>LogFix AI</strong>
-      <br />
       <sub>AI Platform</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/SimonKane/Nextract">
         <img src="https://raw.githubusercontent.com/SimonKane/Nextract/714fa476da215f86d7ea4f61cc63230b7af3b0bf/frontend-dashboard-main/src/public/Nextract-logo.svg" width="80" alt="Nextract" />
       </a>
-      <br />
-      <strong>Nextract</strong>
       <br />
       <sub>CHAS Finalist</sub>
     </td>
