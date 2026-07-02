@@ -1,5 +1,5 @@
 <h1 align="center">HI!</h1>
-<p align="center">I am a programmer in development. Self thaught since 5 years back and as of recently i examined a FullStack JavaScript program at Chas Acedemy in Stockholm. Currently i am in the process of trying to land a job as a fullstack engineer. Driven by problem solving as well as building projects from scratch. Expanding my knowledgebase with test automation an cyber security on my free time</p>
+<p align="center">I'm a Full Stack Software Engineer with a passion for building products that solve real-world problems. I enjoy taking ideas from concept to production while continuously expanding my knowledge in AI, cybersecurity and modern software engineering.</p>
 
  
 <h3 align="center">Tech Stack - (Endlessly expanding)</h3>
@@ -39,9 +39,16 @@
 
 ---
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical&include_forks=true"/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonKane&layout=compact&theme=radical&include_forks=true&hide_border=true"
+    height="180"
+    alt="Top languages"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SimonKane&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+    alt="GitHub stats"
+  />
 </div>
 
 ---
