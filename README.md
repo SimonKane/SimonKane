@@ -69,7 +69,7 @@ Currently going deeper into AI engineering, AI security, cloud and developer too
 
 
 <p align="center">
-  <a href="mailto:simon.kaneborn@chasacademy.se">
+  <a href="mailto:simon.kaneborn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SimonKane">
