@@ -1,5 +1,8 @@
 <h1 align="center">HI!</h1>
-<p align="center">I'm a Full Stack Software Engineer with a passion for building products that solve real-world problems. I enjoy taking ideas from concept to production while continuously expanding my knowledge in AI, cybersecurity and modern software engineering.</p>
+<p align="center">Full Stack Product Engineer
+I build and ship products end to end, mainly with TypeScript, React, Next.js and Node.js.
+Currently going deeper into AI engineering, AI security, cloud and developer tooling.
+</p>
 <p align="center">
   <a href="https://simonkane.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Please%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
